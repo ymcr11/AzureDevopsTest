@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTestADevops", "ApiTestADevops\ApiTestADevops.csproj", "{933E406E-1F27-4C39-8D73-838F6613A5E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{933E406E-1F27-4C39-8D73-838F6613A5E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933E406E-1F27-4C39-8D73-838F6613A5E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933E406E-1F27-4C39-8D73-838F6613A5E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933E406E-1F27-4C39-8D73-838F6613A5E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABFBF63F-03C3-42AC-8F82-7C8D42B35451}
+	EndGlobalSection
+EndGlobal
